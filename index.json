@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:26:13.352Z",
+  "generatedAt": "2026-11-19T00:50:58.403Z",
   "count": 25,
   "skills": [
     {
@@ -134,686 +134,693 @@
       "name": "find-skills",
       "source": "vercel-labs/skills",
       "skillId": "find-skills",
-      "installs": 4413641
+      "installs": 4421830
     },
     {
       "id": "mattpocock/skills/grill-me",
       "name": "grill-me",
       "source": "mattpocock/skills",
       "skillId": "grill-me",
-      "installs": 1568415
+      "installs": 1574261
     },
     {
       "id": "vercel-labs/agent-browser/agent-browser",
       "name": "agent-browser",
       "source": "vercel-labs/agent-browser",
       "skillId": "agent-browser",
-      "installs": 1493612
+      "installs": 1513256
     },
     {
       "id": "designed-by-ai/skills/design-mobile-apps",
       "name": "design-mobile-apps",
       "source": "designed-by-ai/skills",
       "skillId": "design-mobile-apps",
-      "installs": 1483875
+      "installs": 1488292
     },
     {
       "id": "mattpocock/skills/grill-with-docs",
       "name": "grill-with-docs",
       "source": "mattpocock/skills",
       "skillId": "grill-with-docs",
-      "installs": 1340123
+      "installs": 1344703
     },
     {
       "id": "mattpocock/skills/tdd",
       "name": "tdd",
       "source": "mattpocock/skills",
       "skillId": "tdd",
-      "installs": 1251160
+      "installs": 1255353
     },
     {
       "id": "mattpocock/skills/handoff",
       "name": "handoff",
       "source": "mattpocock/skills",
       "skillId": "handoff",
-      "installs": 1148473
+      "installs": 1152565
     },
     {
       "id": "anthropics/skills/frontend-design",
       "name": "frontend-design",
       "source": "anthropics/skills",
       "skillId": "frontend-design",
-      "installs": 1132931
+      "installs": 1137696
     },
     {
       "id": "uizze.sh/ui-taste",
       "name": "ui-taste",
       "source": "uizze.sh",
       "skillId": "ui-taste",
-      "installs": 1096634
+      "installs": 1096857
     },
     {
       "id": "mattpocock/skills/prototype",
       "name": "prototype",
       "source": "mattpocock/skills",
       "skillId": "prototype",
-      "installs": 1089919
+      "installs": 1093901
     },
     {
       "id": "mattpocock/skills/triage",
       "name": "triage",
       "source": "mattpocock/skills",
       "skillId": "triage",
-      "installs": 1084963
+      "installs": 1088539
     },
     {
       "id": "101-skills/superpowers/ai-video-generation",
       "name": "ai-video-generation",
       "source": "101-skills/superpowers",
       "skillId": "ai-video-generation",
-      "installs": 1040654
+      "installs": 1045297
     },
     {
       "id": "101-skills/superpowers/twitter-automation",
       "name": "twitter-automation",
       "source": "101-skills/superpowers",
       "skillId": "twitter-automation",
-      "installs": 1038399
+      "installs": 1042972
     },
     {
       "id": "heygen-com/hyperframes/hyperframes-animation",
       "name": "hyperframes-animation",
       "source": "heygen-com/hyperframes",
       "skillId": "hyperframes-animation",
-      "installs": 1005586
+      "installs": 1005610
     },
     {
       "id": "mattpocock/skills/codebase-design",
       "name": "codebase-design",
       "source": "mattpocock/skills",
       "skillId": "codebase-design",
-      "installs": 964284
+      "installs": 968527
     },
     {
       "id": "magentosh/superpowers/twitter-automation",
       "name": "twitter-automation",
       "source": "magentosh/superpowers",
       "skillId": "twitter-automation",
-      "installs": 940851
+      "installs": 947090
     },
     {
       "id": "magentosh/superpowers/ai-video-generation",
       "name": "ai-video-generation",
       "source": "magentosh/superpowers",
       "skillId": "ai-video-generation",
-      "installs": 940611
+      "installs": 946892
     },
     {
       "id": "heygen-com/hyperframes/hyperframes-core",
       "name": "hyperframes-core",
       "source": "heygen-com/hyperframes",
       "skillId": "hyperframes-core",
-      "installs": 931263
+      "installs": 931287
     },
     {
       "id": "open.feishu.cn/lark-base",
       "name": "lark-base",
       "source": "open.feishu.cn",
       "skillId": "lark-base",
-      "installs": 917437
-    },
-    {
-      "id": "heygen-com/hyperframes/hyperframes-creative",
-      "name": "hyperframes-creative",
-      "source": "heygen-com/hyperframes",
-      "skillId": "hyperframes-creative",
-      "installs": 917315
+      "installs": 920933
     },
     {
       "id": "open.feishu.cn/lark-contact",
       "name": "lark-contact",
       "source": "open.feishu.cn",
       "skillId": "lark-contact",
-      "installs": 914922
+      "installs": 918406
     },
     {
       "id": "open.feishu.cn/lark-event",
       "name": "lark-event",
       "source": "open.feishu.cn",
       "skillId": "lark-event",
-      "installs": 914355
+      "installs": 917831
+    },
+    {
+      "id": "heygen-com/hyperframes/hyperframes-creative",
+      "name": "hyperframes-creative",
+      "source": "heygen-com/hyperframes",
+      "skillId": "hyperframes-creative",
+      "installs": 917340
     },
     {
       "id": "open.feishu.cn/lark-skill-maker",
       "name": "lark-skill-maker",
       "source": "open.feishu.cn",
       "skillId": "lark-skill-maker",
-      "installs": 913587
+      "installs": 917068
     },
     {
       "id": "vercel-labs/agent-skills/vercel-react-best-practices",
       "name": "vercel-react-best-practices",
       "source": "vercel-labs/agent-skills",
       "skillId": "vercel-react-best-practices",
-      "installs": 908177
+      "installs": 911662
     },
     {
       "id": "mattpocock/skills/code-review",
       "name": "code-review",
       "source": "mattpocock/skills",
       "skillId": "code-review",
-      "installs": 902862
+      "installs": 907131
     },
     {
       "id": "vercel-labs/agent-skills/web-design-guidelines",
       "name": "web-design-guidelines",
       "source": "vercel-labs/agent-skills",
       "skillId": "web-design-guidelines",
-      "installs": 873326
+      "installs": 878138
     },
     {
       "id": "skills-shell/superpowers/twitter-automation",
       "name": "twitter-automation",
       "source": "skills-shell/superpowers",
       "skillId": "twitter-automation",
-      "installs": 861364
+      "installs": 871143
     },
     {
       "id": "skills-shell/superpowers/ai-video-generation",
       "name": "ai-video-generation",
       "source": "skills-shell/superpowers",
       "skillId": "ai-video-generation",
-      "installs": 860679
+      "installs": 870462
     },
     {
       "id": "open.feishu.cn/lark-vc-agent",
       "name": "lark-vc-agent",
       "source": "open.feishu.cn",
       "skillId": "lark-vc-agent",
-      "installs": 854965
+      "installs": 858280
     },
     {
       "id": "open.feishu.cn/lark-apps",
       "name": "lark-apps",
       "source": "open.feishu.cn",
       "skillId": "lark-apps",
-      "installs": 826098
+      "installs": 829577
     },
     {
       "id": "mattpocock/skills/wayfinder",
       "name": "wayfinder",
       "source": "mattpocock/skills",
       "skillId": "wayfinder",
-      "installs": 820138
+      "installs": 824247
     },
     {
       "id": "mattpocock/skills/research",
       "name": "research",
       "source": "mattpocock/skills",
       "skillId": "research",
-      "installs": 815606
+      "installs": 819419
     },
     {
       "id": "leonxlnx/taste-skill/design-taste-frontend",
       "name": "design-taste-frontend",
       "source": "leonxlnx/taste-skill",
       "skillId": "design-taste-frontend",
-      "installs": 792918
+      "installs": 795185
     },
     {
       "id": "qu-skills/superpowers/twitter-automation",
       "name": "twitter-automation",
       "source": "qu-skills/superpowers",
       "skillId": "twitter-automation",
-      "installs": 754132
+      "installs": 762860
     },
     {
       "id": "qu-skills/superpowers/ai-video-generation",
       "name": "ai-video-generation",
       "source": "qu-skills/superpowers",
       "skillId": "ai-video-generation",
-      "installs": 753321
+      "installs": 762049
     },
     {
       "id": "microsoft/azure-skills/microsoft-foundry",
       "name": "microsoft-foundry",
       "source": "microsoft/azure-skills",
       "skillId": "microsoft-foundry",
-      "installs": 736839
-    },
-    {
-      "id": "microsoft/azure-skills/entra-app-registration",
-      "name": "entra-app-registration",
-      "source": "microsoft/azure-skills",
-      "skillId": "entra-app-registration",
-      "installs": 724300
+      "installs": 745387
     },
     {
       "id": "microsoft/azure-skills/azure-diagnostics",
       "name": "azure-diagnostics",
       "source": "microsoft/azure-skills",
       "skillId": "azure-diagnostics",
-      "installs": 722882
+      "installs": 733625
     },
     {
       "id": "microsoft/azure-skills/azure-prepare",
       "name": "azure-prepare",
       "source": "microsoft/azure-skills",
       "skillId": "azure-prepare",
-      "installs": 721977
+      "installs": 732721
     },
     {
       "id": "microsoft/azure-skills/azure-deploy",
       "name": "azure-deploy",
       "source": "microsoft/azure-skills",
       "skillId": "azure-deploy",
-      "installs": 720938
+      "installs": 731680
     },
     {
       "id": "microsoft/azure-skills/azure-validate",
       "name": "azure-validate",
       "source": "microsoft/azure-skills",
       "skillId": "azure-validate",
-      "installs": 720630
+      "installs": 731373
     },
     {
       "id": "microsoft/azure-skills/azure-storage",
       "name": "azure-storage",
       "source": "microsoft/azure-skills",
       "skillId": "azure-storage",
-      "installs": 719764
-    },
-    {
-      "id": "microsoft/azure-skills/azure-kusto",
-      "name": "azure-kusto",
-      "source": "microsoft/azure-skills",
-      "skillId": "azure-kusto",
-      "installs": 719615
+      "installs": 730507
     },
     {
       "id": "microsoft/azure-skills/azure-compliance",
       "name": "azure-compliance",
       "source": "microsoft/azure-skills",
       "skillId": "azure-compliance",
-      "installs": 719372
+      "installs": 730113
     },
     {
       "id": "microsoft/azure-skills/azure-resource-lookup",
       "name": "azure-resource-lookup",
       "source": "microsoft/azure-skills",
       "skillId": "azure-resource-lookup",
-      "installs": 719099
+      "installs": 729842
+    },
+    {
+      "id": "microsoft/azure-skills/azure-kusto",
+      "name": "azure-kusto",
+      "source": "microsoft/azure-skills",
+      "skillId": "azure-kusto",
+      "installs": 729536
     },
     {
       "id": "microsoft/azure-skills/azure-aigateway",
       "name": "azure-aigateway",
       "source": "microsoft/azure-skills",
       "skillId": "azure-aigateway",
-      "installs": 718353
+      "installs": 729094
+    },
+    {
+      "id": "microsoft/azure-skills/entra-app-registration",
+      "name": "entra-app-registration",
+      "source": "microsoft/azure-skills",
+      "skillId": "entra-app-registration",
+      "installs": 728129
     },
     {
       "id": "microsoft/azure-skills/azure-messaging",
       "name": "azure-messaging",
       "source": "microsoft/azure-skills",
       "skillId": "azure-messaging",
-      "installs": 710007
+      "installs": 720788
     },
     {
       "id": "microsoft/azure-skills/azure-compute",
       "name": "azure-compute",
       "source": "microsoft/azure-skills",
       "skillId": "azure-compute",
-      "installs": 674839
+      "installs": 685581
     },
     {
       "id": "microsoft/azure-skills/azure-cloud-migrate",
       "name": "azure-cloud-migrate",
       "source": "microsoft/azure-skills",
       "skillId": "azure-cloud-migrate",
-      "installs": 667611
+      "installs": 678353
     },
     {
       "id": "mattpocock/skills/wizard",
       "name": "wizard",
       "source": "mattpocock/skills",
       "skillId": "wizard",
-      "installs": 643187
-    },
-    {
-      "id": "bankai-skills/superpowers/twitter-automation",
-      "name": "twitter-automation",
-      "source": "bankai-skills/superpowers",
-      "skillId": "twitter-automation",
-      "installs": 623955
-    },
-    {
-      "id": "bankai-skills/superpowers/ai-video-generation",
-      "name": "ai-video-generation",
-      "source": "bankai-skills/superpowers",
-      "skillId": "ai-video-generation",
-      "installs": 623506
+      "installs": 646531
     },
     {
       "id": "microsoft/azure-skills/azure-quotas",
       "name": "azure-quotas",
       "source": "microsoft/azure-skills",
       "skillId": "azure-quotas",
-      "installs": 623384
+      "installs": 634125
     },
     {
-      "id": "its-a-skill-issue/superpowers/twitter-automation",
+      "id": "bankai-skills/superpowers/twitter-automation",
       "name": "twitter-automation",
-      "source": "its-a-skill-issue/superpowers",
+      "source": "bankai-skills/superpowers",
       "skillId": "twitter-automation",
-      "installs": 595353
+      "installs": 630936
     },
     {
-      "id": "its-a-skill-issue/superpowers/ai-video-generation",
+      "id": "bankai-skills/superpowers/ai-video-generation",
       "name": "ai-video-generation",
-      "source": "its-a-skill-issue/superpowers",
+      "source": "bankai-skills/superpowers",
       "skillId": "ai-video-generation",
-      "installs": 594466
+      "installs": 630428
     },
     {
       "id": "microsoft/azure-skills/azure-enterprise-infra-planner",
       "name": "azure-enterprise-infra-planner",
       "source": "microsoft/azure-skills",
       "skillId": "azure-enterprise-infra-planner",
-      "installs": 593161
+      "installs": 603903
+    },
+    {
+      "id": "its-a-skill-issue/superpowers/twitter-automation",
+      "name": "twitter-automation",
+      "source": "its-a-skill-issue/superpowers",
+      "skillId": "twitter-automation",
+      "installs": 603279
+    },
+    {
+      "id": "its-a-skill-issue/superpowers/ai-video-generation",
+      "name": "ai-video-generation",
+      "source": "its-a-skill-issue/superpowers",
+      "skillId": "ai-video-generation",
+      "installs": 602351
     },
     {
       "id": "microsoft/azure-skills/azure-kubernetes",
       "name": "azure-kubernetes",
       "source": "microsoft/azure-skills",
       "skillId": "azure-kubernetes",
-      "installs": 588382
+      "installs": 598304
     },
     {
       "id": "google/agents-cli/google-agents-cli-adk-code",
       "name": "google-agents-cli-adk-code",
       "source": "google/agents-cli",
       "skillId": "google-agents-cli-adk-code",
-      "installs": 580719
+      "installs": 583844
     },
     {
       "id": "google/agents-cli/google-agents-cli-deploy",
       "name": "google-agents-cli-deploy",
       "source": "google/agents-cli",
       "skillId": "google-agents-cli-deploy",
-      "installs": 579904
+      "installs": 583031
     },
     {
       "id": "google/agents-cli/google-agents-cli-publish",
       "name": "google-agents-cli-publish",
       "source": "google/agents-cli",
       "skillId": "google-agents-cli-publish",
-      "installs": 579715
+      "installs": 582836
     },
     {
       "id": "google/agents-cli/google-agents-cli-workflow",
       "name": "google-agents-cli-workflow",
       "source": "google/agents-cli",
       "skillId": "google-agents-cli-workflow",
-      "installs": 578617
+      "installs": 581717
     },
     {
       "id": "google/agents-cli/google-agents-cli-eval",
       "name": "google-agents-cli-eval",
       "source": "google/agents-cli",
       "skillId": "google-agents-cli-eval",
-      "installs": 578613
+      "installs": 581707
     },
     {
       "id": "google/agents-cli/google-agents-cli-scaffold",
       "name": "google-agents-cli-scaffold",
       "source": "google/agents-cli",
       "skillId": "google-agents-cli-scaffold",
-      "installs": 578480
+      "installs": 581574
     },
     {
       "id": "google/agents-cli/google-agents-cli-observability",
       "name": "google-agents-cli-observability",
       "source": "google/agents-cli",
       "skillId": "google-agents-cli-observability",
-      "installs": 578447
+      "installs": 581540
     },
     {
       "id": "mattpocock/skills/writing-for-agents",
       "name": "writing-for-agents",
       "source": "mattpocock/skills",
       "skillId": "writing-for-agents",
-      "installs": 567344
+      "installs": 571320
     },
     {
       "id": "mattpocock/skills/git-guardrails-claude-code",
       "name": "git-guardrails-claude-code",
       "source": "mattpocock/skills",
       "skillId": "git-guardrails-claude-code",
-      "installs": 567146
+      "installs": 569624
     },
     {
       "id": "mattpocock/skills/setup-pre-commit",
       "name": "setup-pre-commit",
       "source": "mattpocock/skills",
       "skillId": "setup-pre-commit",
-      "installs": 555974
+      "installs": 558432
+    },
+    {
+      "id": "mattpocock/skills/resolving-merge-conflicts",
+      "name": "resolving-merge-conflicts",
+      "source": "mattpocock/skills",
+      "skillId": "resolving-merge-conflicts",
+      "installs": 551242
     },
     {
       "id": "mattpocock/skills/migrate-to-shoehorn",
       "name": "migrate-to-shoehorn",
       "source": "mattpocock/skills",
       "skillId": "migrate-to-shoehorn",
-      "installs": 541969
-    },
-    {
-      "id": "heygen-com/hyperframes/faceless-explainer",
-      "name": "faceless-explainer",
-      "source": "heygen-com/hyperframes",
-      "skillId": "faceless-explainer",
-      "installs": 522226
+      "installs": 544399
     },
     {
       "id": "microsoft/azure-skills/airunway-aks-setup",
       "name": "airunway-aks-setup",
       "source": "microsoft/azure-skills",
       "skillId": "airunway-aks-setup",
-      "installs": 514155
+      "installs": 523434
+    },
+    {
+      "id": "heygen-com/hyperframes/faceless-explainer",
+      "name": "faceless-explainer",
+      "source": "heygen-com/hyperframes",
+      "skillId": "faceless-explainer",
+      "installs": 522245
     },
     {
       "id": "lllllllama/rigorpilot-skills/paper-context-resolver",
       "name": "paper-context-resolver",
       "source": "lllllllama/rigorpilot-skills",
       "skillId": "paper-context-resolver",
-      "installs": 500661
+      "installs": 501371
     },
     {
       "id": "lllllllama/rigorpilot-skills/env-and-assets-bootstrap",
       "name": "env-and-assets-bootstrap",
       "source": "lllllllama/rigorpilot-skills",
       "skillId": "env-and-assets-bootstrap",
-      "installs": 499635
+      "installs": 500104
     },
     {
       "id": "supabase/agent-skills/supabase-postgres-best-practices",
       "name": "supabase-postgres-best-practices",
       "source": "supabase/agent-skills",
       "skillId": "supabase-postgres-best-practices",
-      "installs": 489258
+      "installs": 490424
     },
     {
       "id": "mattpocock/skills/claude-handoff",
       "name": "claude-handoff",
       "source": "mattpocock/skills",
       "skillId": "claude-handoff",
-      "installs": 487876
+      "installs": 490279
     },
     {
       "id": "larksuite/cli/lark-event",
       "name": "lark-event",
       "source": "larksuite/cli",
       "skillId": "lark-event",
-      "installs": 485205
+      "installs": 486349
     },
     {
       "id": "larksuite/cli/lark-contact",
       "name": "lark-contact",
       "source": "larksuite/cli",
       "skillId": "lark-contact",
-      "installs": 484960
+      "installs": 486104
     },
     {
       "id": "larksuite/cli/lark-skill-maker",
       "name": "lark-skill-maker",
       "source": "larksuite/cli",
       "skillId": "lark-skill-maker",
-      "installs": 482755
-    },
-    {
-      "id": "vercel-labs/agent-skills/vercel-composition-patterns",
-      "name": "vercel-composition-patterns",
-      "source": "vercel-labs/agent-skills",
-      "skillId": "vercel-composition-patterns",
-      "installs": 459733
-    },
-    {
-      "id": "leonxlnx/taste-skill/high-end-visual-design",
-      "name": "high-end-visual-design",
-      "source": "leonxlnx/taste-skill",
-      "skillId": "high-end-visual-design",
-      "installs": 458908
-    },
-    {
-      "id": "leonxlnx/taste-skill/redesign-existing-projects",
-      "name": "redesign-existing-projects",
-      "source": "leonxlnx/taste-skill",
-      "skillId": "redesign-existing-projects",
-      "installs": 458788
-    },
-    {
-      "id": "emilkowalski/skills/emil-design-eng",
-      "name": "emil-design-eng",
-      "source": "emilkowalski/skills",
-      "skillId": "emil-design-eng",
-      "installs": 458634
-    },
-    {
-      "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
-      "name": "ui-ux-pro-max",
-      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "skillId": "ui-ux-pro-max",
-      "installs": 457176
+      "installs": 483887
     },
     {
       "id": "microsoft/azure-skills/azure-reliability",
       "name": "azure-reliability",
       "source": "microsoft/azure-skills",
       "skillId": "azure-reliability",
-      "installs": 452144
+      "installs": 462885
+    },
+    {
+      "id": "vercel-labs/agent-skills/vercel-composition-patterns",
+      "name": "vercel-composition-patterns",
+      "source": "vercel-labs/agent-skills",
+      "skillId": "vercel-composition-patterns",
+      "installs": 461624
+    },
+    {
+      "id": "emilkowalski/skills/emil-design-eng",
+      "name": "emil-design-eng",
+      "source": "emilkowalski/skills",
+      "skillId": "emil-design-eng",
+      "installs": 459942
+    },
+    {
+      "id": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+      "name": "ui-ux-pro-max",
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "skillId": "ui-ux-pro-max",
+      "installs": 459188
+    },
+    {
+      "id": "leonxlnx/taste-skill/high-end-visual-design",
+      "name": "high-end-visual-design",
+      "source": "leonxlnx/taste-skill",
+      "skillId": "high-end-visual-design",
+      "installs": 458909
+    },
+    {
+      "id": "leonxlnx/taste-skill/redesign-existing-projects",
+      "name": "redesign-existing-projects",
+      "source": "leonxlnx/taste-skill",
+      "skillId": "redesign-existing-projects",
+      "installs": 458790
     },
     {
       "id": "heygen-com/hyperframes/figma",
       "name": "figma",
       "source": "heygen-com/hyperframes",
       "skillId": "figma",
-      "installs": 450397
+      "installs": 452946
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/video-edit",
       "name": "video-edit",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "video-edit",
-      "installs": 449630
+      "installs": 450090
     },
     {
       "id": "heygen-com/hyperframes/pr-to-video",
       "name": "pr-to-video",
       "source": "heygen-com/hyperframes",
       "skillId": "pr-to-video",
-      "installs": 449444
+      "installs": 449467
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/image-to-video",
       "name": "image-to-video",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "image-to-video",
-      "installs": 447874
+      "installs": 448380
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/nano-banana-2",
       "name": "nano-banana-2",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "nano-banana-2",
-      "installs": 447596
+      "installs": 448075
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/image-edit",
       "name": "image-edit",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "image-edit",
-      "installs": 447118
+      "installs": 447621
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/flux-kontext",
       "name": "flux-kontext",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "flux-kontext",
-      "installs": 446750
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/gpt-image-edit",
-      "name": "gpt-image-edit",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "gpt-image-edit",
-      "installs": 446041
+      "installs": 447214
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/wan-2-7",
       "name": "wan-2-7",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "wan-2-7",
-      "installs": 446022
+      "installs": 446524
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/gpt-image-edit",
+      "name": "gpt-image-edit",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "gpt-image-edit",
+      "installs": 446505
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/happyhorse-1-0",
       "name": "happyhorse-1-0",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "happyhorse-1-0",
-      "installs": 445940
+      "installs": 446404
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/flux-2-klein",
       "name": "flux-2-klein",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "flux-2-klein",
-      "installs": 445777
+      "installs": 446241
     },
     {
       "id": "juliusbrussee/caveman/caveman-review",
       "name": "caveman-review",
       "source": "juliusbrussee/caveman",
       "skillId": "caveman-review",
-      "installs": 435743
+      "installs": 436988
     },
     {
       "id": "prisma/skills/prisma-client-api",
       "name": "prisma-client-api",
       "source": "prisma/skills",
       "skillId": "prisma-client-api",
-      "installs": 433736
+      "installs": 436950
     },
     {
       "id": "mattpocock/skills/setup-ts-deep-modules",
       "name": "setup-ts-deep-modules",
       "source": "mattpocock/skills",
       "skillId": "setup-ts-deep-modules",
-      "installs": 433564
+      "installs": 435955
     },
     {
       "id": "prisma/skills/prisma-database-setup",
       "name": "prisma-database-setup",
       "source": "prisma/skills",
       "skillId": "prisma-database-setup",
-      "installs": 431747
+      "installs": 434916
     },
     {
       "id": "leonxlnx/taste-skill/minimalist-ui",
@@ -823,242 +830,242 @@
       "installs": 425176
     },
     {
-      "id": "prime-skills/runcomfy-agent-skills/kling-3-0",
-      "name": "kling-3-0",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "kling-3-0",
-      "installs": 422990
-    },
-    {
       "id": "shadcn-ui/ui/shadcn",
       "name": "shadcn",
       "source": "shadcn-ui/ui",
       "skillId": "shadcn",
-      "installs": 422594
+      "installs": 423955
     },
     {
-      "id": "uizze.sh/ios-design",
-      "name": "ios-design",
-      "source": "uizze.sh",
-      "skillId": "ios-design",
-      "installs": 419607
+      "id": "prime-skills/runcomfy-agent-skills/kling-3-0",
+      "name": "kling-3-0",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "kling-3-0",
+      "installs": 423492
     },
     {
       "id": "prisma/skills/prisma-postgres-setup",
       "name": "prisma-postgres-setup",
       "source": "prisma/skills",
       "skillId": "prisma-postgres-setup",
-      "installs": 418211
+      "installs": 421370
     },
     {
       "id": "prisma/skills/prisma-driver-adapter-implementation",
       "name": "prisma-driver-adapter-implementation",
       "source": "prisma/skills",
       "skillId": "prisma-driver-adapter-implementation",
-      "installs": 418117
+      "installs": 421270
+    },
+    {
+      "id": "uizze.sh/ios-design",
+      "name": "ios-design",
+      "source": "uizze.sh",
+      "skillId": "ios-design",
+      "installs": 419750
     },
     {
       "id": "pbakaus/impeccable/impeccable",
       "name": "impeccable",
       "source": "pbakaus/impeccable",
       "skillId": "impeccable",
-      "installs": 415449
+      "installs": 418328
     },
     {
       "id": "prisma/skills/prisma-compute",
       "name": "prisma-compute",
       "source": "prisma/skills",
       "skillId": "prisma-compute",
-      "installs": 413033
+      "installs": 416183
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/codex-pet",
       "name": "codex-pet",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "codex-pet",
-      "installs": 411183
+      "installs": 411606
     },
     {
       "id": "heygen-com/hyperframes/talking-head-recut",
       "name": "talking-head-recut",
       "source": "heygen-com/hyperframes",
       "skillId": "talking-head-recut",
-      "installs": 408135
+      "installs": 408161
     },
     {
       "id": "leonxlnx/taste-skill/full-output-enforcement",
       "name": "full-output-enforcement",
       "source": "leonxlnx/taste-skill",
       "skillId": "full-output-enforcement",
-      "installs": 401111
+      "installs": 401112
     },
     {
       "id": "leonxlnx/taste-skill/gpt-taste",
       "name": "gpt-taste",
       "source": "leonxlnx/taste-skill",
       "skillId": "gpt-taste",
-      "installs": 399561
+      "installs": 399563
     },
     {
       "id": "leonxlnx/taste-skill/industrial-brutalist-ui",
       "name": "industrial-brutalist-ui",
       "source": "leonxlnx/taste-skill",
       "skillId": "industrial-brutalist-ui",
-      "installs": 396971
+      "installs": 396972
     },
     {
       "id": "leonxlnx/taste-skill/stitch-design-taste",
       "name": "stitch-design-taste",
       "source": "leonxlnx/taste-skill",
       "skillId": "stitch-design-taste",
-      "installs": 394925
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/ai-image-generation",
-      "name": "ai-image-generation",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "ai-image-generation",
-      "installs": 392817
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/ai-video-generation",
-      "name": "ai-video-generation",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "ai-video-generation",
-      "installs": 392662
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/runcomfy-cli",
-      "name": "runcomfy-cli",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "runcomfy-cli",
-      "installs": 389885
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/face-swap",
-      "name": "face-swap",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "face-swap",
-      "installs": 389615
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/ai-avatar-video",
-      "name": "ai-avatar-video",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "ai-avatar-video",
-      "installs": 389598
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/video-inpainting",
-      "name": "video-inpainting",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "video-inpainting",
-      "installs": 387855
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/image-inpainting",
-      "name": "image-inpainting",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "image-inpainting",
-      "installs": 387457
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/lipsync",
-      "name": "lipsync",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "lipsync",
-      "installs": 387176
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/controlnet-pose",
-      "name": "controlnet-pose",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "controlnet-pose",
-      "installs": 387035
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/elevenlabs-music-generation",
-      "name": "elevenlabs-music-generation",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "elevenlabs-music-generation",
-      "installs": 386736
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/video-extend",
-      "name": "video-extend",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "video-extend",
-      "installs": 386688
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/image-outpainting",
-      "name": "image-outpainting",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "image-outpainting",
-      "installs": 386486
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/relight",
-      "name": "relight",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "relight",
-      "installs": 386361
-    },
-    {
-      "id": "prime-skills/runcomfy-agent-skills/video-outpainting",
-      "name": "video-outpainting",
-      "source": "prime-skills/runcomfy-agent-skills",
-      "skillId": "video-outpainting",
-      "installs": 386222
+      "installs": 394926
     },
     {
       "id": "microsoft/azure-skills/python-appservice-deploy",
       "name": "python-appservice-deploy",
       "source": "microsoft/azure-skills",
       "skillId": "python-appservice-deploy",
-      "installs": 386175
+      "installs": 394712
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/ai-image-generation",
+      "name": "ai-image-generation",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "ai-image-generation",
+      "installs": 393272
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/ai-video-generation",
+      "name": "ai-video-generation",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "ai-video-generation",
+      "installs": 393110
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/runcomfy-cli",
+      "name": "runcomfy-cli",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "runcomfy-cli",
+      "installs": 390352
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/ai-avatar-video",
+      "name": "ai-avatar-video",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "ai-avatar-video",
+      "installs": 390046
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/face-swap",
+      "name": "face-swap",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "face-swap",
+      "installs": 389803
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/video-inpainting",
+      "name": "video-inpainting",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "video-inpainting",
+      "installs": 388313
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/image-inpainting",
+      "name": "image-inpainting",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "image-inpainting",
+      "installs": 387961
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/lipsync",
+      "name": "lipsync",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "lipsync",
+      "installs": 387649
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/controlnet-pose",
+      "name": "controlnet-pose",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "controlnet-pose",
+      "installs": 387457
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/video-extend",
+      "name": "video-extend",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "video-extend",
+      "installs": 387146
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/image-outpainting",
+      "name": "image-outpainting",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "image-outpainting",
+      "installs": 386989
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/elevenlabs-music-generation",
+      "name": "elevenlabs-music-generation",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "elevenlabs-music-generation",
+      "installs": 386922
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/relight",
+      "name": "relight",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "relight",
+      "installs": 386828
+    },
+    {
+      "id": "prime-skills/runcomfy-agent-skills/video-outpainting",
+      "name": "video-outpainting",
+      "source": "prime-skills/runcomfy-agent-skills",
+      "skillId": "video-outpainting",
+      "installs": 386680
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/ai-music",
       "name": "ai-music",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "ai-music",
-      "installs": 378690
+      "installs": 379140
     },
     {
       "id": "prime-skills/runcomfy-agent-skills/ace-step",
       "name": "ace-step",
       "source": "prime-skills/runcomfy-agent-skills",
       "skillId": "ace-step",
-      "installs": 378058
+      "installs": 378505
     },
     {
       "id": "leonxlnx/taste-skill/imagegen-frontend-mobile",
       "name": "imagegen-frontend-mobile",
       "source": "leonxlnx/taste-skill",
       "skillId": "imagegen-frontend-mobile",
-      "installs": 373811
+      "installs": 373812
     },
     {
       "id": "supabase/agent-skills/supabase",
       "name": "supabase",
       "source": "supabase/agent-skills",
       "skillId": "supabase",
-      "installs": 368448
+      "installs": 369378
     },
     {
       "id": "uizze/uizze/uizze-ui",
       "name": "uizze-ui",
       "source": "uizze/uizze",
       "skillId": "uizze-ui",
-      "installs": 367560
+      "installs": 367601
     },
     {
       "id": "larksuite/cli/lark-vc-agent",
       "name": "lark-vc-agent",
       "source": "larksuite/cli",
       "skillId": "lark-vc-agent",
-      "installs": 366758
+      "installs": 366764
     },
     {
       "id": "microsoft/azure-skills/azure-cost",
@@ -1072,21 +1079,21 @@
       "name": "ai-research-explore",
       "source": "lllllllama/rigorpilot-skills",
       "skillId": "ai-research-explore",
-      "installs": 360833
+      "installs": 361548
     },
     {
       "id": "lllllllama/rigorpilot-skills/analyze-project",
       "name": "analyze-project",
       "source": "lllllllama/rigorpilot-skills",
       "skillId": "analyze-project",
-      "installs": 360682
+      "installs": 361397
     },
     {
       "id": "lllllllama/rigorpilot-skills/safe-debug",
       "name": "safe-debug",
       "source": "lllllllama/rigorpilot-skills",
       "skillId": "safe-debug",
-      "installs": 360351
+      "installs": 361059
     },
     {
       "id": "microsoft/azure-skills/azure-hosted-copilot-sdk",
@@ -1100,7 +1107,7 @@
       "name": "lark-apps",
       "source": "larksuite/cli",
       "skillId": "lark-apps",
-      "installs": 334344
+      "installs": 335490
     },
     {
       "id": "leonxlnx/taste-skill/design-taste-frontend-v1",
@@ -1114,84 +1121,77 @@
       "name": "review-animations",
       "source": "emilkowalski/skills",
       "skillId": "review-animations",
-      "installs": 316965
-    },
-    {
-      "id": "neondatabase/agent-skills/neon-postgres",
-      "name": "neon-postgres",
-      "source": "neondatabase/agent-skills",
-      "skillId": "neon-postgres",
-      "installs": 313953
-    },
-    {
-      "id": "emilkowalski/skills/apple-design",
-      "name": "apple-design",
-      "source": "emilkowalski/skills",
-      "skillId": "apple-design",
-      "installs": 308473
+      "installs": 319664
     },
     {
       "id": "microsoft/azure-skills/azure-app-onboard",
       "name": "azure-app-onboard",
       "source": "microsoft/azure-skills",
       "skillId": "azure-app-onboard",
-      "installs": 306928
+      "installs": 317669
     },
     {
       "id": "microsoft/azure-skills/azure-app-onboard-prereq",
       "name": "azure-app-onboard-prereq",
       "source": "microsoft/azure-skills",
       "skillId": "azure-app-onboard-prereq",
-      "installs": 306720
+      "installs": 317461
+    },
+    {
+      "id": "neondatabase/agent-skills/neon-postgres",
+      "name": "neon-postgres",
+      "source": "neondatabase/agent-skills",
+      "skillId": "neon-postgres",
+      "installs": 314816
+    },
+    {
+      "id": "emilkowalski/skills/apple-design",
+      "name": "apple-design",
+      "source": "emilkowalski/skills",
+      "skillId": "apple-design",
+      "installs": 311462
     },
     {
       "id": "emilkowalski/skills/animation-vocabulary",
       "name": "animation-vocabulary",
       "source": "emilkowalski/skills",
       "skillId": "animation-vocabulary",
-      "installs": 293843
+      "installs": 296337
     },
     {
       "id": "obra/superpowers/requesting-code-review",
       "name": "requesting-code-review",
       "source": "obra/superpowers",
       "skillId": "requesting-code-review",
-      "installs": 284739
+      "installs": 285612
     },
     {
       "id": "emilkowalski/skills/improve-animations",
       "name": "improve-animations",
       "source": "emilkowalski/skills",
       "skillId": "improve-animations",
-      "installs": 282256
+      "installs": 284972
     },
     {
       "id": "vercel-labs/agent-skills/vercel-react-native-skills",
       "name": "vercel-react-native-skills",
       "source": "vercel-labs/agent-skills",
       "skillId": "vercel-react-native-skills",
-      "installs": 280719
-    },
-    {
-      "id": "neondatabase/agent-skills/neon",
-      "name": "neon",
-      "source": "neondatabase/agent-skills",
-      "skillId": "neon",
-      "installs": 266930
+      "installs": 282027
     },
     {
       "id": "emilkowalski/skills/find-animation-opportunities",
       "name": "find-animation-opportunities",
       "source": "emilkowalski/skills",
       "skillId": "find-animation-opportunities",
-      "installs": 265116
+      "installs": 266133
     },
     {
       "id": "coreyhaines31/marketingskills/seo-audit",
       "name": "seo-audit",
       "source": "coreyhaines31/marketingskills",
       "skillId": "seo-audit",
-      "installs": 257965
+      "installs": 259072
     },
     {
       "id": "scrapegraphai/just-scrape/just-scrape",
@@ -1205,63 +1205,63 @@
       "name": "receiving-code-review",
       "source": "obra/superpowers",
       "skillId": "receiving-code-review",
-      "installs": 242916
-    },
-    {
-      "id": "obra/superpowers/dispatching-parallel-agents",
-      "name": "dispatching-parallel-agents",
-      "source": "obra/superpowers",
-      "skillId": "dispatching-parallel-agents",
-      "installs": 238993
+      "installs": 243745
     },
     {
       "id": "emilkowalski/skills/pick-ui-library",
       "name": "pick-ui-library",
       "source": "emilkowalski/skills",
       "skillId": "pick-ui-library",
-      "installs": 238715
+      "installs": 241299
+    },
+    {
+      "id": "obra/superpowers/dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "source": "obra/superpowers",
+      "skillId": "dispatching-parallel-agents",
+      "installs": 239406
     },
     {
       "id": "obra/superpowers/writing-skills",
       "name": "writing-skills",
       "source": "obra/superpowers",
       "skillId": "writing-skills",
-      "installs": 238463
+      "installs": 239276
     },
     {
       "id": "obra/superpowers/using-git-worktrees",
       "name": "using-git-worktrees",
       "source": "obra/superpowers",
       "skillId": "using-git-worktrees",
-      "installs": 237762
+      "installs": 238553
     },
     {
       "id": "emilkowalski/skills/animate",
       "name": "animate",
       "source": "emilkowalski/skills",
       "skillId": "animate",
-      "installs": 231615
+      "installs": 234384
     },
     {
       "id": "emilkowalski/skills/prototype",
       "name": "prototype",
       "source": "emilkowalski/skills",
       "skillId": "prototype",
-      "installs": 226957
+      "installs": 229323
     },
     {
       "id": "anthropics/skills/docx",
       "name": "docx",
       "source": "anthropics/skills",
       "skillId": "docx",
-      "installs": 220816
+      "installs": 221218
     },
     {
       "id": "microsoft/playwright-cli/playwright-cli",
       "name": "playwright-cli",
       "source": "microsoft/playwright-cli",
       "skillId": "playwright-cli",
-      "installs": 219567
+      "installs": 220667
     },
     {
       "id": "mattpocock/skills/design-an-interface",
@@ -1275,168 +1275,168 @@
       "name": "webapp-testing",
       "source": "anthropics/skills",
       "skillId": "webapp-testing",
-      "installs": 207662
+      "installs": 208597
     },
     {
       "id": "microsoft/azure-skills/discover-azure-skills",
       "name": "discover-azure-skills",
       "source": "microsoft/azure-skills",
       "skillId": "discover-azure-skills",
-      "installs": 203391
+      "installs": 207219
     },
     {
       "id": "mattpocock/skills/request-refactor-plan",
       "name": "request-refactor-plan",
       "source": "mattpocock/skills",
       "skillId": "request-refactor-plan",
-      "installs": 202446
+      "installs": 202447
     },
     {
       "id": "anthropics/skills/xlsx",
       "name": "xlsx",
       "source": "anthropics/skills",
       "skillId": "xlsx",
-      "installs": 200761
+      "installs": 201596
     },
     {
       "id": "vercel-labs/agent-skills/deploy-to-vercel",
       "name": "deploy-to-vercel",
       "source": "vercel-labs/agent-skills",
       "skillId": "deploy-to-vercel",
-      "installs": 196390
+      "installs": 197087
     },
     {
       "id": "101-skills/superpowers/agent-browser",
       "name": "agent-browser",
       "source": "101-skills/superpowers",
       "skillId": "agent-browser",
-      "installs": 195953
-    },
-    {
-      "id": "sentry/dev/sentry-cli",
-      "name": "sentry-cli",
-      "source": "sentry/dev",
-      "skillId": "sentry-cli",
-      "installs": 194538
+      "installs": 196828
     },
     {
       "id": "vercel-labs/agent-skills/vercel-react-view-transitions",
       "name": "vercel-react-view-transitions",
       "source": "vercel-labs/agent-skills",
       "skillId": "vercel-react-view-transitions",
-      "installs": 194365
+      "installs": 195672
+    },
+    {
+      "id": "sentry/dev/sentry-cli",
+      "name": "sentry-cli",
+      "source": "sentry/dev",
+      "skillId": "sentry-cli",
+      "installs": 195501
     },
     {
       "id": "tt-a1i/archify/archify",
       "name": "archify",
       "source": "tt-a1i/archify",
       "skillId": "archify",
-      "installs": 193254
+      "installs": 193671
     },
     {
       "id": "emilkowalski/skills/ask-sonner",
       "name": "ask-sonner",
       "source": "emilkowalski/skills",
       "skillId": "ask-sonner",
-      "installs": 190424
+      "installs": 192748
     },
     {
       "id": "emilkowalski/skills/animate-expo",
       "name": "animate-expo",
       "source": "emilkowalski/skills",
       "skillId": "animate-expo",
-      "installs": 188227
+      "installs": 190560
     },
     {
       "id": "firebase/agent-skills/firebase-basics",
       "name": "firebase-basics",
       "source": "firebase/agent-skills",
       "skillId": "firebase-basics",
-      "installs": 187300
+      "installs": 187549
     },
     {
       "id": "firebase/agent-skills/firebase-auth-basics",
       "name": "firebase-auth-basics",
       "source": "firebase/agent-skills",
       "skillId": "firebase-auth-basics",
-      "installs": 186195
+      "installs": 186445
     },
     {
       "id": "firebase/agent-skills/firebase-hosting-basics",
       "name": "firebase-hosting-basics",
       "source": "firebase/agent-skills",
       "skillId": "firebase-hosting-basics",
-      "installs": 181491
+      "installs": 181735
     },
     {
       "id": "firebase/agent-skills/firebase-app-hosting-basics",
       "name": "firebase-app-hosting-basics",
       "source": "firebase/agent-skills",
       "skillId": "firebase-app-hosting-basics",
-      "installs": 180815
+      "installs": 181056
     },
     {
       "id": "firebase/agent-skills/firebase-data-connect",
       "name": "firebase-data-connect",
       "source": "firebase/agent-skills",
       "skillId": "firebase-data-connect",
-      "installs": 179851
+      "installs": 180090
     },
     {
       "id": "magentosh/superpowers/agent-browser",
       "name": "agent-browser",
       "source": "magentosh/superpowers",
       "skillId": "agent-browser",
-      "installs": 176453
+      "installs": 177610
     },
     {
       "id": "emilkowalski/skills/write-swift",
       "name": "write-swift",
       "source": "emilkowalski/skills",
       "skillId": "write-swift",
-      "installs": 168263
+      "installs": 170552
     },
     {
       "id": "coreyhaines31/marketingskills/ai-seo",
       "name": "ai-seo",
       "source": "coreyhaines31/marketingskills",
       "skillId": "ai-seo",
-      "installs": 167349
-    },
-    {
-      "id": "coreyhaines31/marketingskills/programmatic-seo",
-      "name": "programmatic-seo",
-      "source": "coreyhaines31/marketingskills",
-      "skillId": "programmatic-seo",
-      "installs": 163714
+      "installs": 168239
     },
     {
       "id": "antibrow/anti-detect-browser-skills/anti-detect-browser",
       "name": "anti-detect-browser",
       "source": "antibrow/anti-detect-browser-skills",
       "skillId": "anti-detect-browser",
-      "installs": 163453
+      "installs": 164644
+    },
+    {
+      "id": "coreyhaines31/marketingskills/programmatic-seo",
+      "name": "programmatic-seo",
+      "source": "coreyhaines31/marketingskills",
+      "skillId": "programmatic-seo",
+      "installs": 164424
     },
     {
       "id": "skills-shell/superpowers/agent-browser",
       "name": "agent-browser",
       "source": "skills-shell/superpowers",
       "skillId": "agent-browser",
-      "installs": 162077
+      "installs": 163865
     },
     {
       "id": "cloudflare/skills/cloudflare",
       "name": "cloudflare",
       "source": "cloudflare/skills",
       "skillId": "cloudflare",
-      "installs": 160032
+      "installs": 161025
     },
     {
       "id": "vercel-labs/agent-skills/vercel-cli-with-tokens",
       "name": "vercel-cli-with-tokens",
       "source": "vercel-labs/agent-skills",
       "skillId": "vercel-cli-with-tokens",
-      "installs": 157817
+      "installs": 158934
     },
     {
       "id": "microsoft/azure-skills/azure-cost-optimization",
@@ -1450,84 +1450,84 @@
       "name": "wrangler",
       "source": "cloudflare/skills",
       "skillId": "wrangler",
-      "installs": 150584
+      "installs": 151571
     },
     {
       "id": "firebase/agent-skills/firebase-security-rules-auditor",
       "name": "firebase-security-rules-auditor",
       "source": "firebase/agent-skills",
       "skillId": "firebase-security-rules-auditor",
-      "installs": 150248
+      "installs": 150499
     },
     {
       "id": "coreyhaines31/marketingskills/ad-creative",
       "name": "ad-creative",
       "source": "coreyhaines31/marketingskills",
       "skillId": "ad-creative",
-      "installs": 149168
+      "installs": 149996
     },
     {
       "id": "cloudflare/skills/workers-best-practices",
       "name": "workers-best-practices",
       "source": "cloudflare/skills",
       "skillId": "workers-best-practices",
-      "installs": 147690
+      "installs": 148690
     },
     {
       "id": "firebase/agent-skills/firebase-firestore",
       "name": "firebase-firestore",
       "source": "firebase/agent-skills",
       "skillId": "firebase-firestore",
-      "installs": 146855
+      "installs": 147102
     },
     {
       "id": "firebase/agent-skills/firebase-ai-logic-basics",
       "name": "firebase-ai-logic-basics",
       "source": "firebase/agent-skills",
       "skillId": "firebase-ai-logic-basics",
-      "installs": 146839
+      "installs": 147081
     },
     {
       "id": "anthropics/skills/mcp-builder",
       "name": "mcp-builder",
       "source": "anthropics/skills",
       "skillId": "mcp-builder",
-      "installs": 143889
-    },
-    {
-      "id": "firebase/agent-skills/firebase-crashlytics",
-      "name": "firebase-crashlytics",
-      "source": "firebase/agent-skills",
-      "skillId": "firebase-crashlytics",
-      "installs": 142820
+      "installs": 144437
     },
     {
       "id": "qu-skills/superpowers/agent-browser",
       "name": "agent-browser",
       "source": "qu-skills/superpowers",
       "skillId": "agent-browser",
-      "installs": 142079
-    },
-    {
-      "id": "heygen-com/hyperframes/hyperframes-media",
-      "name": "hyperframes-media",
-      "source": "heygen-com/hyperframes",
-      "skillId": "hyperframes-media",
-      "installs": 141732
-    },
-    {
-      "id": "firebase/agent-skills/xcode-project-setup",
-      "name": "xcode-project-setup",
-      "source": "firebase/agent-skills",
-      "skillId": "xcode-project-setup",
-      "installs": 141603
+      "installs": 143773
     },
     {
       "id": "emilkowalski/skills/mobile-native",
       "name": "mobile-native",
       "source": "emilkowalski/skills",
       "skillId": "mobile-native",
-      "installs": 141404
+      "installs": 143765
+    },
+    {
+      "id": "firebase/agent-skills/firebase-crashlytics",
+      "name": "firebase-crashlytics",
+      "source": "firebase/agent-skills",
+      "skillId": "firebase-crashlytics",
+      "installs": 143063
+    },
+    {
+      "id": "firebase/agent-skills/xcode-project-setup",
+      "name": "xcode-project-setup",
+      "source": "firebase/agent-skills",
+      "skillId": "xcode-project-setup",
+      "installs": 142119
+    },
+    {
+      "id": "mattpocock/skills/chief-of-staff",
+      "name": "chief-of-staff",
+      "source": "mattpocock/skills",
+      "skillId": "chief-of-staff",
+      "installs": 142053
     }
   ]
 }
